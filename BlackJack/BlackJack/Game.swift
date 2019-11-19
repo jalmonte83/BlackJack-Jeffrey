@@ -70,6 +70,7 @@ class Game {
             print("Bust⚰️💀")
         default:
             print("Continue😉🧐")
+             // why do you think game.hitMe() is unused? - Jeffrey
              game.hitMe()
         }
       
